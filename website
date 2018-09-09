@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<h1>Angelina Wang<h1>
+  <h5>13 year old dancer, writer and aspiring programmer.</h5>
+  <img src="http://newcastlespiritualistchurch.com/wp-content/uploads/2010/06/nsci-swirl-element.png">
+  <h2>Biography</h2>
+  <p>Hi, I am Angelina, and I was born on July 22nd 2005 in Toronto, Canada by my
+    lovely father Bin Wang and my beautiful mother Yingyuan. I have two older brothers,
+    Andrew and Arthur, and I am currently in eigth grade. Some of my favourite subjects
+    are geometry, <strong> physics</strong>, language, geography and history. I also
+    love to dance, and some of my favourite styles of dance are jazz, ballet and acro.
+    
+   <h3>Favourites</h3>
+    <p> Colour: Red <br>
+      Song: Eastside by Benny Blanco ft. Khalid & Halsey <br>
+      DOTW: Monday <br>
+      TOD: 8:35am or 4:30pm <br>
+      Youtuber: Jacksfilms </p>
+     
+   
+   
+</body>
+</html>
